@@ -20,6 +20,7 @@ O que você precisa para instalar o software e como instalá-los
 ```
 * Execute o Xampp
 ```
+
 ![xamp](https://github.com/Vansk1/OSPCS/assets/95319503/ec0edd4f-afde-40c5-9413-00a35c586d91)
 
 * Acesse a administração do MySQL (phpmyadmin)
@@ -67,9 +68,7 @@ Interface
 
 ## Autor
 
-* **Vanderson Alves** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Vanderson Alves** 
 
 ## License
 
@@ -78,8 +77,8 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Agradecimentos
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Professor José de Assis que colaborou com sua experiência no projeto https://gist.github.com/professorjosedeassis
+* Senac Tatuápe
+  
