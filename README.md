@@ -27,7 +27,7 @@ O que você precisa para instalar o software e como instalá-los
   
 * Crie um novo banco de dados de nome dbRadicalPC's
   
-* Faça a importação do arquivo assistencia_tecnica.sql para o XAMPP
+* Faça a importação do arquivo rapc.sql para o XAMPP
 
 * Em "Releases" faça o download da assistencia_tecnica(.jar) e execute o arquivo
 
