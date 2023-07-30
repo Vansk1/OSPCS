@@ -27,7 +27,7 @@ O que você precisa para instalar o software e como instalá-los
   
 * Crie um novo banco de dados de nome dbRadicalPC's
   
-* Faça a importação do arquivo rapc.sql para o XAMPP
+* Faça a importação do arquivo [rapc.sql](https://github.com/Vansk1/OSPCS/blob/main/rapc.sql) para o XAMPP
 
 * Em "Releases" faça o download do [radPC.jar](https://github.com/Vansk1/OSPCS/blob/main/radPC.jar) e execute o arquivo
 
