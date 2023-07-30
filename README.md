@@ -29,7 +29,7 @@ O que você precisa para instalar o software e como instalá-los
   
 * Faça a importação do arquivo rapc.sql para o XAMPP
 
-* Em "Releases" faça o download da assistencia_tecnica(.jar) e execute o arquivo
+* Em "Releases" faça o download do radPC.jar e execute o arquivo
 
 
 ```
