@@ -75,7 +75,7 @@ Interface
 ![image](https://github.com/Vansk1/OSPCS/assets/95319503/4618b430-4d2c-4217-a93e-85baa7202625)
 
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) file for details
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) 
 
 ## Agradecimentos
 
